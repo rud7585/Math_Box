@@ -12,6 +12,10 @@ def subtract(a, b):
 def multuplay(a, b):
   return a*b
 
+<<<<<<< HEAD
 def divide(a, b):
   return a/b
+>>>>>>> main
+=======
+
 >>>>>>> main
