@@ -10,6 +10,3 @@ def multuplay(a, b):
 
 def square(a):
     return a*a
-
-def square(a):
-    return a*a
